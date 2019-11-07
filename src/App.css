@@ -37,3 +37,9 @@ div {
 	background-color: lightgrey;
 	cursor: not-allowed;
 }
+
+@media (max-width: 600px) {
+	.Card {
+		width: 80%;
+	}
+}
